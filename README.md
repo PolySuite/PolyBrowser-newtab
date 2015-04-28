@@ -13,7 +13,7 @@ This is the code repository for the about:newtab page of PolyBrowser.  If you're
 * Quicklaunch all websites in group
 * Built-in Search
 * [**Learn More and Download It at PolyBrowser.com**](https://polybrowser.com)
-</br></br>
+</br></br></br></br></br></br>
 
 ##Source Code
 This source code is a To understand the source code and build PolyBrowser, visit the [PolyBrowser Wiki](https://github.com/PolySuite/PolyBrowser/wiki)
