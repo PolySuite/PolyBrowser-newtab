@@ -8,7 +8,7 @@ This is the code repository for the about:newtab page of PolyBrowser.  If you're
 
 
 <img src="http://www.guguzhu.com/d/file/pc/2014/10/28/PolyBrowser1303.jpg" align="right" hspace="15" vspace="6">
- It includes:  
+ PolyBrowser's Newtab page includes:  
 * Custom grouping of websites
 * Quicklaunch all websites in group
 * Built-in Search
